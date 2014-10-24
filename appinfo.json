@@ -1,0 +1,51 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Yuriy Galanter",
+    "longName": "Autoinsult for Pebble",
+    "projectType": "pebblejs",
+    "resources": {
+        "media": [
+            {
+                "file": "images/menu_icon.png",
+                "name": "IMAGE_MENU_ICON",
+                "type": "png"
+            },
+            {
+                "file": "images/logo_splash.png",
+                "name": "IMAGE_LOGO_SPLASH",
+                "type": "png"
+            },
+            {
+                "file": "images/tile_splash.png",
+                "name": "IMAGE_TILE_SPLASH",
+                "type": "png"
+            },
+            {
+                "file": "fonts/UbuntuMono-Regular.ttf",
+                "name": "MONO_FONT_14",
+                "type": "font"
+            },
+            {
+                "file": "images/refresh.png",
+                "name": "IMAGES_REFRESH_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/insult.png",
+                "menuIcon": true,
+                "name": "IMAGES_INSULT_PNG",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "Autoinsult",
+    "uuid": "3ec39a82-ad51-4cd6-b7d0-71c37075aa42",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
