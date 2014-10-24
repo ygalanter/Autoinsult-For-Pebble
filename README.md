@@ -8,4 +8,5 @@ Select insult style from
 - Mediterranean.
 
 Based on data from autoinsult.com
+
 =====================
