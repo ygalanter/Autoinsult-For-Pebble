@@ -1,4 +1,4 @@
-/* Main aoo module */
+/* Main app module */
 
 var UI = require('ui');
 var Insult = require('insult');
