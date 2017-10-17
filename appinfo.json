@@ -11,17 +11,17 @@
             {
                 "file": "images/menu_icon.png",
                 "name": "IMAGE_MENU_ICON",
-                "type": "png"
+                "type": "bitmap"
             },
             {
                 "file": "images/logo_splash.png",
                 "name": "IMAGE_LOGO_SPLASH",
-                "type": "png"
+                "type": "bitmap"
             },
             {
                 "file": "images/tile_splash.png",
                 "name": "IMAGE_TILE_SPLASH",
-                "type": "png"
+                "type": "bitmap"
             },
             {
                 "file": "fonts/UbuntuMono-Regular.ttf",
@@ -29,23 +29,24 @@
                 "type": "font"
             },
             {
-                "file": "images/refresh.png",
-                "name": "IMAGES_REFRESH_PNG",
-                "type": "png"
-            },
-            {
                 "file": "images/insult.png",
                 "menuIcon": true,
                 "name": "IMAGES_INSULT_PNG",
-                "type": "png"
+                "type": "bitmap"
             }
         ]
     },
+    "sdkVersion": "3",
     "shortName": "Autoinsult",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
     "uuid": "3ec39a82-ad51-4cd6-b7d0-71c37075aa42",
     "versionCode": 1,
-    "versionLabel": "1.1",
+    "versionLabel": "1.4",
     "watchapp": {
+        "hiddenApp": false,
         "watchface": false
     }
 }

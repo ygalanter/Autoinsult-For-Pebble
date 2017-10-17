@@ -37,7 +37,8 @@ var typeMenu = new UI.Menu({
       {title:'Arabian'},
       {title:'Shakespearean'},      
       {title:'Mediterranean'},      
-      {title:'Modern'}      
+      {title:'Modern'},
+      {title:'Number 45'}
     ]
   }]
 });
